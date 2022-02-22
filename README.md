@@ -16,8 +16,8 @@ Container라는  application, system tools, dependencies 을 하나로 묶어서
 
 ## Container VS VM 의 차이 
 
-VM 에서 경량화된 컨셉이 Container 
-개별적인 Container Engine을 사용 = 가장 많이 사용되는 것이 docker enginer 
+VM 에서 경량화된 컨셉이 Container <br>
+개별적인 Container Engine을 사용 = 가장 많이 사용되는 것이 docker engine
 
 
 ## 도커의 3대 구성요소 
