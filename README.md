@@ -41,8 +41,8 @@ Local Machine
 image         -> push  -> Container Registry                  
                           image             -> pull   ->   Server       <= Docker 
 
-public          private
-dockerhub       AWS
-RED HAT         Google Cloud
+public          private <br>
+dockerhub       AWS<br>
+RED HAT         Google Cloud<br>
 Github Package  Azure
                        
